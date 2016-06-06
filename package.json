@@ -1,0 +1,21 @@
+{
+  "name": "Require-test-project",
+  "version": "0.0.1",
+  "description": "Roadmap task #1",
+  "main": "app/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "StasKh",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-jslint": "^0.2.2",
+    "jshint-stylish": "^2.1.0"
+  },
+  "dependencies": {
+    "google-closure-compiler": "^20160517.1.0"
+  }
+}

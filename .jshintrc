@@ -1,0 +1,7 @@
+{
+  "undef": true,
+  "unused": true,
+  "predef": [
+	"define", "document", "console", "setInterval", "require"
+  ]
+}
