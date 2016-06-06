@@ -37,3 +37,4 @@ gulp.task("GCC", function () {
 });
 
 gulp.task("check-style", ["jshint", "jscs", "jslint", "GCC"]);
+gulp.task("default", ["check-style"]);
